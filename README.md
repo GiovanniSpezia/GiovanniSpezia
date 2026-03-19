@@ -83,3 +83,8 @@ Feel free to explore my repositories or reach out to collaborate on interesting 
 
 **📧 Email:** gio@giospezia.it
 **💼 LinkedIn:** [Giovanni Spezia](https://www.linkedin.com/in/giovanni-spezia-71577124b/)
+
+---
+
+## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/giospezia)
