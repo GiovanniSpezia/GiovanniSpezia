@@ -59,9 +59,6 @@
 
 ## 📌 Pinned Projects
 
-<a href="https://github.com/GiovanniSpezia/GioSpeziaSite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannispezia&repo=GioSpeziaSite&theme=tokyonight" />
-</a>
 <a href="https://github.com/GiovanniSpezia/SpicyQoL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannispezia&repo=SpicyQoL&theme=tokyonight" />
 </a>
@@ -70,6 +67,9 @@
 </a>
 <a href="https://github.com/GiovanniSpezia/RunnerGame">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannispezia&repo=RunnerGame&theme=tokyonight" />
+</a>
+<a href="https://github.com/GiovanniSpezia/Tris">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannispezia&repo=Tris&theme=tokyonight" />
 </a>
 <a href="https://github.com/GiovanniSpezia/MythicMaster">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannispezia&repo=MythicMaster&theme=tokyonight" />
