@@ -64,6 +64,9 @@
 <a href="https://github.com/GiovanniSpezia/SpicyQoL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannispezia&repo=SpicyQoL&theme=tokyonight" />
 </a>
+<a href="https://github.com/GiovanniSpezia/BoomCraft">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannispezia&repo=BoomCraft&theme=tokyonight" />
+</a>
 <a href="https://github.com/GiovanniSpezia/SnakeGame">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannispezia&repo=SnakeGame&theme=tokyonight" />
 </a>
