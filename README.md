@@ -1,6 +1,6 @@
 <!-- Profile Header with Stats -->
-![](https://raw.githubusercontent.com/giovannispezia/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/giovannispezia/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+[![GiovanniSpezia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giovannispezia&theme=tokyonight&show_icons=true)](https://github.com/giovannispezia)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannispezia&theme=tokyonight&layout=compact)](https://github.com/giovannispezia)
 
 ---
 
