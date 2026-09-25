@@ -6,8 +6,12 @@
 
 <div align="center">
   <!-- GitHub Stats & Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=giovannispezia&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Giovanni's GitHub Stats" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannispezia&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="192px"/>
+  <a href="https://github.com/GiovanniSpezia">
+    <img src="https://github-readme-stats.vercel.app/api?username=giovannispezia&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Giovanni's GitHub Stats" height="192px"/>
+  </a>
+  <a href="https://github.com/GiovanniSpezia">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannispezia&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="192px"/>
+  </a>
 </div>
 
 ---
@@ -65,12 +69,41 @@
 
 ## 📌 Pinned Projects
 
-<!-- Using an invisible table for a responsive grid layout -->
-| | |
-| :---: | :---: |
-| <a href="https://github.com/GiovanniSpezia/SpicyQoL"><img src="https://github.com-readme-stats.vercel.app/api/pin/?username=giovannispezia&repo=SpicyQoL&theme=tokyonight&hide_border=true" alt="SpicyQoL" /></a> | <a href="https://github.com/GiovanniSpezia/BoomCraft"><img src="https://github.com-readme-stats.vercel.app/api/pin/?username=giovannispezia&repo=BoomCraft&theme=tokyonight&hide_border=true" alt="BoomCraft" /></a> |
-| <a href="https://github.com/GiovanniSpezia/SnakeGame"><img src="https://github.com-readme-stats.vercel.app/api/pin/?username=giovannispezia&repo=SnakeGame&theme=tokyonight&hide_border=true" alt="SnakeGame" /></a> | <a href="https://github.com/GiovanniSpezia/RunnerGame"><img src="https://github.com-readme-stats.vercel.app/api/pin/?username=giovannispezia&repo=RunnerGame&theme=tokyonight&hide_border=true" alt="RunnerGame" /></a> |
-| <a href="https://github.com/GiovanniSpezia/Tris"><img src="https://github.com-readme-stats.vercel.app/api/pin/?username=giovannispezia&repo=Tris&theme=tokyonight&hide_border=true" alt="Tris" /></a> |  |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/GiovanniSpezia/SpicyQoL">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=giovannispezia&repo=SpicyQoL&theme=tokyonight&hide_border=true" alt="SpicyQoL" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/GiovanniSpezia/BoomCraft">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=giovannispezia&repo=BoomCraft&theme=tokyonight&hide_border=true" alt="BoomCraft" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/GiovanniSpezia/SnakeGame">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=giovannispezia&repo=SnakeGame&theme=tokyonight&hide_border=true" alt="SnakeGame" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/GiovanniSpezia/RunnerGame">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=giovannispezia&repo=RunnerGame&theme=tokyonight&hide_border=true" alt="RunnerGame" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://github.com/GiovanniSpezia/Tris">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=giovannispezia&repo=Tris&theme=tokyonight&hide_border=true" alt="Tris" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
